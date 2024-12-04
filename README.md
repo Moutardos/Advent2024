@@ -3,7 +3,7 @@
 My solutions for the advent of code 2024    
 
 - **Day01** => Done! 2*    
-- **Day02** =>    
+- **Day02** => Done! 2*   
 - **Day03** =>    
 - **Day04** =>    
 - **Day05** =>     
@@ -27,4 +27,4 @@ My solutions for the advent of code 2024
 - **Day23** =>     
 - **Day24** =>     
     
-total *: 2
+total: 4*
